@@ -12,3 +12,10 @@ Online visualizing tool to analyze Dijkstras Algorithm and calculate the shortes
 
 
 ![screen2](Screenshots/screen2.png)
+
+
+<br>
+
+
+![screen3](Screenshots/screen3.png)
+
