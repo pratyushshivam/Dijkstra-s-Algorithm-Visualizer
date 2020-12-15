@@ -2,6 +2,7 @@
 Online visualizing tool to analyze Dijkstras Algorithm and calculate the shortest path.
 
 ##The online visualizer can be visited here :
+
 [Dijkstras Algorithm Visualizer](https://dijkstrasvisualizer.web.app)
 
 
